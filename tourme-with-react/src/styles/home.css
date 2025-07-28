@@ -106,10 +106,13 @@ a {
   box-shadow: 10px 22px 10px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 }
-
+.card p, .card h3{
+   padding: 1rem;
+}
 .card h3 {
   color: #f57c00;
   margin-bottom: 0.5rem;
+  padding-bottom: 0;
   font-family: 'Playfair Display', serif;
 }
 

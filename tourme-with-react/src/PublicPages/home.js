@@ -1,11 +1,11 @@
 import "../styles/home.css";
 import { Link } from "react-router-dom";
-import dist1 from "../img/safari-386292.jpg";
-import dist2 from "../img/lake-1681485.jpg";
-import dist3 from "../img/coastal-5527726.jpg";
-import dist4 from "../img/istanbul-915076.jpg";
-import dist5 from "../img/dockland-4431309.jpg";
-import dist6 from "../img/polynesia-3021072.jpg";
+import dist1 from "../assets/img/safari-386292.jpg";
+import dist2 from "../assets/img/lake-1681485.jpg";
+import dist3 from "../assets/img/coastal-5527726.jpg";
+import dist4 from "../assets/img/istanbul-915076.jpg";
+import dist5 from "../assets/img/dockland-4431309.jpg";
+import dist6 from "../assets/img/polynesia-3021072.jpg";
 const Home = () => {
   return (
     <div className="home">
