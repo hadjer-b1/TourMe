@@ -44,7 +44,7 @@ export default function ThemeNavigator() {
               <div className="content">
                 <h2 className="theme-title">{theme.name}</h2>
                 <p>{theme.description}</p>
-                <div className="theme-btn" style={{ backgroundColor: theme.color }}>
+                <div>
                   <Link to={`/experiences`} className="btn">Explore</Link>
                 </div>
               </div>

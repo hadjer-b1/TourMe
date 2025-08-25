@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100..1000&display=swap");
 
-body {
+body,.home,.highlights {
   --c-glass: #bbbbbc;
   --c-light: #fff;
   --c-dark: #000;
@@ -23,7 +23,9 @@ body {
     color 400ms cubic-bezier(1, 0, 0.4, 1);
 }
 
-body:has(input[value="dark"]:checked) {
+body:has(input[value="dark"]:checked),
+.home:has(input[value="dark"]:checked),
+.highlights:has(input[value="dark"]:checked) {
   --c-glass: #bbbbbc;
   --c-light: #fff;
   --c-dark: #000;
@@ -39,7 +41,9 @@ body:has(input[value="dark"]:checked) {
   --saturation: 150%;
 }
 
-body:has(input[value="dim"]:checked) {
+body:has(input[value="dim"]:checked),
+.home:has(input[value="dim"]:checked),
+.highlights:has(input[value="dim"]:checked) {
   --c-light: #99deff;
   --c-dark: #20001b;
   --c-glass: hsl(335 250% 74% / 1);
