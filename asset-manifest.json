@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/TourMe/static/css/main.83bd6709.css",
+    "main.js": "/TourMe/static/js/main.e8ba4c01.js",
+    "static/js/453.82c38333.chunk.js": "/TourMe/static/js/453.82c38333.chunk.js",
+    "static/media/dockland-4431309.jpg": "/TourMe/static/media/dockland-4431309.0d0c4755445dea6db45e.jpg",
+    "static/media/lake-1681485.jpg": "/TourMe/static/media/lake-1681485.74cdde3991dfc3e13553.jpg",
+    "static/media/cultural.jpg": "/TourMe/static/media/cultural.2446e76e65fd398b5b00.jpg",
+    "static/media/coastal-5527726.jpg": "/TourMe/static/media/coastal-5527726.b7e993cb9b3d457977d5.jpg",
+    "static/media/istanbul-915076.jpg": "/TourMe/static/media/istanbul-915076.ba14102cb2ec1de1b0cb.jpg",
+    "static/media/cold.jpg": "/TourMe/static/media/cold.0d5cb5b9e3da25000744.jpg",
+    "static/media/modern.jpg": "/TourMe/static/media/modern.dadab24091cc84012816.jpg",
+    "static/media/historical.jpg": "/TourMe/static/media/historical.4f620029c0537e76fbed.jpg",
+    "static/media/sea.jpg": "/TourMe/static/media/sea.489d7adff0c42183ca66.jpg",
+    "static/media/nature.jpg": "/TourMe/static/media/nature.635c9ea457c4208c2130.jpg",
+    "static/media/jungle.jpg": "/TourMe/static/media/jungle.c2c3713958e4bec8df9f.jpg",
+    "static/media/mountain.jpg": "/TourMe/static/media/mountain.1453c20dbb1e9ca0d126.jpg",
+    "static/media/desert.jpg": "/TourMe/static/media/desert.46e0b268a9d3e9b9a29c.jpg",
+    "static/media/safari-386292.jpg": "/TourMe/static/media/safari-386292.46e0b268a9d3e9b9a29c.jpg",
+    "static/media/urban.jpg": "/TourMe/static/media/urban.a29cb231670f50cced70.jpg",
+    "static/media/background-body.jpg": "/TourMe/static/media/background-body.6f37d179c2e086c37194.jpg",
+    "static/media/polynesia-3021072.jpg": "/TourMe/static/media/polynesia-3021072.4f13d0455a4fcf64ef92.jpg",
+    "static/media/logo.png": "/TourMe/static/media/logo.481b94d514a7092add50.png",
+    "index.html": "/TourMe/index.html",
+    "main.83bd6709.css.map": "/TourMe/static/css/main.83bd6709.css.map",
+    "main.e8ba4c01.js.map": "/TourMe/static/js/main.e8ba4c01.js.map",
+    "453.82c38333.chunk.js.map": "/TourMe/static/js/453.82c38333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83bd6709.css",
+    "static/js/main.e8ba4c01.js"
+  ]
+}
