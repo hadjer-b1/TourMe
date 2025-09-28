@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TourMe/static/css/main.83bd6709.css",
-    "main.js": "/TourMe/static/js/main.e8ba4c01.js",
+    "main.css": "/TourMe/static/css/main.6daf3551.css",
+    "main.js": "/TourMe/static/js/main.aabbcf3e.js",
     "static/js/453.82c38333.chunk.js": "/TourMe/static/js/453.82c38333.chunk.js",
     "static/media/dockland-4431309.jpg": "/TourMe/static/media/dockland-4431309.0d0c4755445dea6db45e.jpg",
     "static/media/lake-1681485.jpg": "/TourMe/static/media/lake-1681485.74cdde3991dfc3e13553.jpg",
@@ -22,12 +22,12 @@
     "static/media/polynesia-3021072.jpg": "/TourMe/static/media/polynesia-3021072.4f13d0455a4fcf64ef92.jpg",
     "static/media/logo.png": "/TourMe/static/media/logo.481b94d514a7092add50.png",
     "index.html": "/TourMe/index.html",
-    "main.83bd6709.css.map": "/TourMe/static/css/main.83bd6709.css.map",
-    "main.e8ba4c01.js.map": "/TourMe/static/js/main.e8ba4c01.js.map",
+    "main.6daf3551.css.map": "/TourMe/static/css/main.6daf3551.css.map",
+    "main.aabbcf3e.js.map": "/TourMe/static/js/main.aabbcf3e.js.map",
     "453.82c38333.chunk.js.map": "/TourMe/static/js/453.82c38333.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83bd6709.css",
-    "static/js/main.e8ba4c01.js"
+    "static/css/main.6daf3551.css",
+    "static/js/main.aabbcf3e.js"
   ]
 }
