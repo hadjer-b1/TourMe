@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Jungle",
+    "color": "bg-green-700",
+    "description": "Explore the lush jungle, teeming with vibrant flora and the calls of exotic wildlife. Lose yourself in the symphony of nature under a thick canopy where every leaf tells a story."
+  },
+  {
+    "id": 2,
+    "name": "Sea",
+    "color": "bg-blue-500",
+    "description": "Dive into the mysterious deep sea, where bioluminescent creatures dance in the dark and coral reefs burst with color. Hear the whispers of the ocean and feel the serenity of the waves."
+  },
+  {
+    "id": 3,
+    "name": "Desert",
+    "color": "bg-yellow-600",
+    "description": "Wander through the endless desert dunes, shaped by wind and time. Feel the intense heat, admire the golden hues at sunset, and marvel at the stars across the vast night sky."
+  },
+  {
+    "id": 4,
+    "name": "Mountain",
+    "color": "bg-gray-500",
+    "description": "Climb towering mountains and breathe in the crisp, thin air. Stand above the clouds where silence reigns, and witness the raw majesty of snow-capped peaks and endless ridges."
+  },
+  {
+    "id": 5,
+    "name": "Cold",
+    "color": "bg-cyan-700",
+    "description": "Feel the freezing cold, the chill of the Arctic."
+  },
+  {
+    "id": 6,
+    "name": "Modern",
+    "color": "bg-gray-800",
+    "description": "Experience modern architecture, the future of design."
+  },
+  {
+    "id": 7,
+    "name": "Nature",
+    "color": "bg-emerald-500",
+    "description": "Enjoy pure nature, the essence of life."
+  },
+  {
+    "id": 8,
+    "name": "Urban",
+    "color": "bg-gray-800",
+    "description": "Feel the heartbeat of the city — neon lights, honking horns, and endless movement. Every alley, café, and skyline tells a story of ambition and modern survival."
+  },
+  {
+    "id": 9,
+    "name": "Cultural",
+    "color": "bg-purple-700",
+    "description": "Step into the rhythm of cultures around the globe — from traditional dances to culinary wonders. Every tradition, artifact, and celebration reveals a thread in humanity’s rich tapestry."
+  },
+  {
+    "id": 10,
+    "name": "Historical",
+    "color": "bg-yellow-500",
+    "description": "Wander through ancient ruins and time-worn paths. Feel the weight of civilizations past and relive the echoes of empires, legends, and lost knowledge."
+  }
+]

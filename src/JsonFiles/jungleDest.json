@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amazon Rainforest",
+    "description": "Discover the world's largest tropical rainforest.",
+    "image": "/images/jungle/amazon.jpg"
+  },
+  {
+    "name": "Borneo Rainforest",
+    "description": "Home to unique wildlife like orangutans and pygmy elephants.",
+    "image": "/images/jungle/borneo.jpg"
+  },
+  {
+    "name": "Congo Basin",
+    "description": "Explore Africa's largest tropical rainforest with rich biodiversity.",
+    "image": "/images/jungle/congo.jpg"
+  }
+]

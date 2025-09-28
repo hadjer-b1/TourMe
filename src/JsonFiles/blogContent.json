@@ -1,0 +1,78 @@
+[
+  {
+    "articles": [
+      {
+        "title": "Top 10 Halal Travel Tips for First-Timers",
+        "slug": "top-10-halal-travel-tips-for-first-timers",
+        "summary": "Practical advice for Muslims embarking on their first halal-conscious journey, from finding prayer spaces to halal-friendly dining.",
+        "body": "Traveling while keeping halal in mind doesn't have to be stressful. Start by researching your destination's halal options in advance. Use apps and websites that list halal restaurants and mosques nearby. Pack essentials like a travel prayer mat and snacks in case halal food isn't easily available. Check flight meal options and request halal in advance. Respect prayer times by scheduling activities around them when possible. Remember that flexibility and preparation are key. Finally, engage with local Muslim communities — they can offer authentic advice and hidden recommendations you won't find online.",
+        "theme": "halal-travel",
+        "author": "The Lame Traveler"
+      },
+      {
+        "title": "5 Hidden Gems You Didn't Know Were Halal-Friendly",
+        "slug": "5-hidden-gems-you-didnt-know-were-halal-friendly",
+        "summary": "Explore underrated destinations that cater to Muslim travelers with halal food, prayer spaces, and cultural ease.",
+        "body": "While places like Dubai or Kuala Lumpur are obvious halal-friendly destinations, there are underrated spots that might surprise you. Bosnia and Herzegovina blends Ottoman heritage with halal cuisine around every corner. Cape Town offers diverse halal dining and strong Muslim culture. Seoul has been quietly expanding halal options for Muslim visitors. Zanzibar balances beach vibes with a rich Islamic history. Even Tokyo now has halal-certified eateries. These hidden gems prove that Muslim travelers can explore beyond the usual hotspots without compromising their values.",
+        "theme": "halal-travel",
+        "author": "The Lame Traveler"
+      },
+      {
+        "title": "The Ultimate Halal Packing Guide",
+        "slug": "the-ultimate-halal-packing-guide",
+        "summary": "A checklist tailored for halal-conscious travelers to pack smart while staying spiritually and practically prepared.",
+        "body": "Packing for a halal-conscious trip isn't just about clothes and chargers. Add a lightweight prayer mat, a compass or app for Qibla direction, and a portable Quran or dua book. Halal-certified toiletries are a must since some products contain alcohol or animal derivatives. Bring your own snacks — dates, nuts, or packaged halal-certified food — to avoid food stress while on the move. Modest swimwear can be useful for beach trips. Finally, keep essentials like reusable water bottles and eco-friendly bags to reduce waste. With the right prep, you can focus more on the experience and less on worrying about halal essentials.",
+        "theme": "halal-travel",
+        "author": "The Lame Traveler"
+      }
+    ],
+    "blogCards": [
+      {
+        "title": "🌴 Jungle Survival Tips",
+        "slug": "jungle-survival-tips",
+        "ImgBlogCard": "https://plus.unsplash.com/premium_photo-1726826584901-9cf707b4073d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGp1bmdsZSUyMHN1cnZpdmUlMjB0aXB8ZW58MHx8MHx8fDA%3D",
+        "summary": "Learn essential skills to thrive in dense forests — from identifying edible plants to avoiding dangerous wildlife.",
+        "body": "Jungle survival is all about respecting an environment that is both beautiful and brutal. Start by learning how to find clean water — rivers and rain collection are safest. Fire is essential for warmth, cooking, and keeping predators away. Edible plants can be identified by testing small amounts slowly, but it's safer to stick to known fruits and nuts. Avoid brightly colored or strong-smelling plants, as they are often toxic. Navigation can be tricky in dense forests, so use natural markers like rivers, moss growth, or the sun. Finally, always build a simple shelter to stay dry and safe from insects. Remember: energy conservation is as important as food intake in jungle survival."
+      },
+      {
+        "title": "🌊 Top 5 Sea Diving Spots",
+        "slug": "top-5-sea-diving-spots",
+        "ImgBlogCard": "https://images.unsplash.com/photo-1715028045565-6cb2fdacd12c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fFNlYSUyMERpdmluZyUyMFNwb3RzfGVufDB8fDB8fHww",
+        "summary": "Discover the most breathtaking underwater destinations across the globe for both beginners and pros.",
+        "body": "The ocean hides worlds of color and motion that few get to see. Among the best diving spots, the Great Barrier Reef in Australia tops the list with its endless coral gardens. In Egypt, the Red Sea offers warm waters and incredible biodiversity. The Maldives is perfect for spotting manta rays and whale sharks. For more adventurous divers, Palau in Micronesia has dramatic caves and rich marine life. Finally, Cozumel in Mexico balances accessibility with stunning reef systems. Whether you're new to diving or a pro, these spots offer unforgettable underwater adventures."
+      },
+      {
+        "title": "🏜️ What to Pack for a Desert Trip",
+        "slug": "what-to-pack-for-desert-trip",
+        "ImgBlogCard": "https://images.unsplash.com/photo-1610441783225-fc6b5d83b57b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFBhY2slMjBmb3IlMjBhJTIwRGVzZXJ0JTIwVHJpcHxlbnwwfHwwfHx8MA%3D%3D",
+
+        "summary": "A practical checklist for surviving and enjoying extreme desert climates without sacrificing comfort.",
+        "body": "Deserts test endurance, so packing smart is non-negotiable. Carry lightweight, breathable clothing for the day and warmer layers for cold nights. A wide-brimmed hat, sunglasses, and sunscreen are essential for sun protection. Always bring more water than you think you need — hydration packs work best. Pack high-energy snacks like dates, nuts, or protein bars. Navigation tools, whether GPS or a compass and map, are vital because landmarks shift. Finally, a reliable first-aid kit, flashlight, and emergency blanket round out the basics. With these essentials, you can enjoy the desert without being caught off guard."
+      },
+      {
+        "title": "🏔️ 7 Breathtaking Mountain Hikes",
+        "slug": "7-breathtaking-mountain-hikes",
+        "ImgBlogCard": "https://plus.unsplash.com/premium_photo-1661963741928-673ed7f7c00b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fDclMjBCcmVhdGh0YWtpbmclMjBNb3VudGFpbiUyMEhpa2V8ZW58MHx8MHx8fDA%3D",
+
+        "summary": "Step-by-step routes for scenic hikes in the Alps, Rockies, and more, plus what gear to bring.",
+        "body": "Mountains reward effort with views that feel otherworldly. Classic hikes include the Tour du Mont Blanc in the Alps, Machu Picchu's Inca Trail in Peru, and the rugged Appalachian Trail in the U.S. The Rockies offer countless breathtaking routes like Banff's Skyline Trail. For something exotic, Mount Kilimanjaro in Tanzania challenges both endurance and spirit. Each hike requires proper gear: sturdy boots, weatherproof clothing, hydration packs, and trekking poles. Plan for altitude shifts, pack layers, and respect nature's unpredictability. These hikes prove that the harder the climb, the greater the reward."
+      },
+      {
+        "title": "🏙️ Urban Adventures: Best Cities for Solo Travelers",
+        "slug": "urban-adventures-best-cities-solo-travelers",
+        "ImgBlogCard": "https://plus.unsplash.com/premium_photo-1682091683953-fa28cd594016?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "summary": "Navigate the world's top cities safely and make the most of your solo journey with local insights.",
+        "body": "Traveling solo in a city is about freedom and discovery. Tokyo balances safety with endless cultural exploration, from neon districts to quiet temples. Lisbon offers friendly locals, walkable streets, and affordable eats. Berlin blends history with a thriving creative scene, perfect for independent travelers. In North America, Montreal is multilingual, vibrant, and welcoming. Finally, Bangkok delivers chaos and charm, with food and culture on every corner. Safety tips include keeping valuables secure, blending in with locals, and using trusted transport options. Solo urban travel can be one of the most empowering experiences you'll ever have."
+      },
+      {
+        "title": "🎭 Festivals that Celebrate Culture",
+        "slug": "festivals-that-celebrate-culture",
+        "ImgBlogCard": "https://images.unsplash.com/photo-1733818050717-3fe601862aa4?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "summary": "Uncover unique cultural festivals that showcase tradition, food, dance, and community spirit.",
+        "body": "Festivals are windows into a culture's soul. Algeria's Festival of the Sahara celebrates the region's rich Berber heritage with music, dance, and traditional crafts, also horse riding. In Japan, the Gion Matsuri showcases centuries-old traditions with stunning floats and processions. In China, the Harbin Ice Festival transforms the city into a winter wonderland with massive ice sculptures. In Spain, La Tomatina flips chaos into joy with a massive tomato fight. Closer to nature, Peru's Inti Raymi honors the Sun God with vibrant rituals. These festivals aren't just events — they're living history. Travelers should always approach with respect: learn local customs, dress appropriately, and participate with an open heart."
+      }
+    ]
+  }
+]

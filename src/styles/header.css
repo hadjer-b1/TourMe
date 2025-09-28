@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500;700&display=swap");
+
+:root {
+  --header-bg-light: #ffa82614;
+  --header-bg-dark: #2228316d;
+  --header-bg-dim: #3a3a3a4d;
+  --header-text-light: #ffffff;
+  --header-text-dark: #f4eae0;
+  --header-text-dim: #e0e0e0;
+  --nav-link-light: #201e1e;
+  --nav-link-dark: #212020;
+  --nav-link-dim: #1b1a1a;
+  --primary-color: #ffa726;
+  --primary-hover: #fb8c00;
+  --text-light: #ffffff;
+  --nav-hover: #ffa726;
+  --nav-underline: #ffa726;
+  --login-bg: #ffa726;
+  --login-color: #ffffff;
+  --login-hover: #fb8c00;
+}
+
+.light-theme header {
+  background-color: var(--header-bg-light);
+  color: var(--header-text-light);
+}
+.dark-theme header {
+  background-color: var(--header-bg-dark);
+  color: var(--header-text-dark);
+}
+.dim-theme header {
+  background-color: var(--header-bg-dim);
+  color: var(--header-text-dim);
+}
+
+.light-theme nav ul li a {
+  color: var(--nav-link-light);
+}
+.dark-theme nav ul li a {
+  color: var(--nav-link-dark);
+}
+.dim-theme nav ul li a {
+  color: var(--nav-link-dim);
+}
+
+header {
+  text-align: center;
+  color: var(--header-text-light);
+  font-family: "Poppins", sans-serif;
+  backdrop-filter: blur(3px);
+  padding-bottom: 0;
+  position: absolute;
+  width: 100%;
+  z-index: 1000;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: var(--text-light);
+  font-weight: 700;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+
+nav ul li a:hover {
+  color: var(--nav-hover);
+}
+
+nav ul li a::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background: var(--nav-underline);
+  transition: width 0.3s;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+}
+
+.logo {
+  width: 50px;
+  height: auto;
+}
+
+.header-line {
+  width: 100%;
+  height: 1px;
+  background-color: var(--text-light);
+  margin: 0;
+  padding: 0;
+}
+
+.login-btn {
+  position: relative;
+  top: 0;
+  left: 48%;
+  translate: -50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 26px;
+  padding: 1px 8px;
+  color: var(--login-color);
+  font-weight: 700;
+  font-size: 0.85rem;
+  border-radius: 99em;
+  background-color: var(--login-bg);
+  border: none;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.login-btn:hover {
+  background-color: var(--login-hover);
+  transform: translateY(-2px);
+}

@@ -1,0 +1,233 @@
+{
+  "Jungle": [
+    {
+      "id": 1,
+      "title": "Jungle Trek",
+      "description": "Navigate lush paths in tropical rainforest.",
+      "image": "https://cdn.pixabay.com/photo/2018/08/24/15/47/jungle-3623093_1280.jpg",
+      "duration": "3-4 hours",
+      "difficulty": "moderate",
+      "adventureSlug": "lost-jungle-trail"
+    },
+    {
+      "id": 2,
+      "title": "Wildlife Discovery",
+      "description": "Spot exotic animals in dense canopy.",
+      "image": "https://cdn.pixabay.com/photo/2017/01/20/16/00/tiger-1993542_1280.jpg",
+      "adventureSlug": "wildlife-encounter"
+    },
+    {
+      "id": 3,
+      "title": "Rainforest Waterfalls",
+      "description": "Visit hidden waterfalls among greenery.",
+      "image": "https://cdn.pixabay.com/photo/2017/03/28/12/11/waterfall-2180931_1280.jpg",
+      "adventureSlug": "rainforest-waterfall"
+    }
+  ],
+  "Sea": [
+    {
+      "id": 1,
+      "title": "Coastal Sailing",
+      "description": "Cruise crystal waters with stunning views.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/18/16/57/boat-1837154_1280.jpg",
+      "adventureSlug": "sailing-storms"
+    },
+    {
+      "id": 2,
+      "title": "Tropical Snorkeling",
+      "description": "Explore coral reefs full of color.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/03/53/snorkel-1867288_1280.jpg",
+      "adventureSlug": "tropical-snorkeling"
+    },
+    {
+      "id": 3,
+      "title": "Beach Sunset Chill",
+      "description": "Relax on soft sands at twilight.",
+      "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_1280.jpg",
+      "adventureSlug": "beach-sunset-chill"
+    }
+  ],
+  "Desert": [
+    {
+      "id": 1,
+      "title": "Desert Dunes",
+      "description": "Walk across golden sand dunes at dawn.",
+      "image": "https://cdn.pixabay.com/photo/2017/01/20/19/53/desert-1995028_1280.jpg",
+      "adventureSlug": "desert-dunes"
+    },
+    {
+      "id": 2,
+      "title": "Oasis Campsite",
+      "description": "Sleep under stars in luxury desert tents.",
+      "image": "https://cdn.pixabay.com/photo/2017/08/06/00/32/tent-2592354_1280.jpg",
+      "adventureSlug": "oasis-campsite"
+    },
+    {
+      "id": 3,
+      "title": "Desert Safari",
+      "description": "Ride camels and watch sunset over dunes.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/06/05/09/camel-1807521_1280.jpg",
+      "adventureSlug": "desert-safari"
+    }
+  ],
+  "Mountain": [
+    {
+      "id": 1,
+      "title": "Alpine Hike",
+      "description": "Climb peaks for breathtaking views.",
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/10/11/hiking-690572_1280.jpg",
+      "adventureSlug": "alpine-hike"
+    },
+    {
+      "id": 2,
+      "title": "Lake at Summit",
+      "description": "Reach peaceful alpine lakes at altitude.",
+      "image": "https://cdn.pixabay.com/photo/2016/10/23/19/45/mountain-1777821_1280.jpg",
+      "adventureSlug": "lake-at-summit"
+    },
+    {
+      "id": 3,
+      "title": "Mountain Sunrise",
+      "description": "Catch the sunrise over snowy ridgelines.",
+      "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_1280.jpg",
+      "adventureSlug": "mountain-sunrise"
+    }
+  ],
+  "Cold": [
+    {
+      "id": 1,
+      "title": "Glacier Trek",
+      "description": "Walk across ancient ice formations.",
+      "image": "https://cdn.pixabay.com/photo/2017/03/27/14/56/glacier-2178965_1280.jpg",
+      "adventureSlug": "glacier-trek"
+    },
+    {
+      "id": 2,
+      "title": "Northern Lights",
+      "description": "See auroras dance across frozen skies.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/18/22/19/northern-lights-1837264_1280.jpg",
+      "adventureSlug": "northern-lights"
+    },
+    {
+      "id": 3,
+      "title": "Polar Wildlife",
+      "description": "Observe wildlife adapted to extreme cold.",
+      "image": "https://cdn.pixabay.com/photo/2015/11/03/10/23/penguin-1015859_1280.jpg",
+      "adventureSlug": "polar-wildlife"
+    }
+  ],
+  "Modern": [
+    {
+      "id": 1,
+      "title": "City Skylines",
+      "description": "Modern architecture meets urban scenery.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/03/53/cityscape-1867288_1280.jpg",
+      "adventureSlug": "city-skylines"
+    },
+    {
+      "id": 2,
+      "title": "Futuristic Design Tour",
+      "description": "Explore cutting‑edge buildings and museums.",
+      "image": "https://cdn.pixabay.com/photo/2017/08/30/09/04/architecture-2698309_1280.jpg",
+      "adventureSlug": "futuristic-design-tour"
+    },
+    {
+      "id": 3,
+      "title": "High‑Tech District",
+      "description": "Visit innovative tech hubs in major cities.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/15/39/skyline-1836663_1280.jpg",
+      "adventureSlug": "high-tech-district"
+    }
+  ],
+  "Nature": [
+    {
+      "id": 1,
+      "title": "Forest Trails",
+      "description": "Walk among ancient trees and wildlife.",
+      "image": "https://cdn.pixabay.com/photo/2015/11/08/23/50/forest-1031237_1280.jpg",
+      "adventureSlug": "forest-trails"
+    },
+    {
+      "id": 2,
+      "title": "Lake Reflections",
+      "description": "Find serenity by panoramic lakes.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/09/32/lake-1867347_1280.jpg",
+      "adventureSlug": "lake-reflections"
+    },
+    {
+      "id": 3,
+      "title": "Flower Fields",
+      "description": "See vibrant blossoms in nature’s palette.",
+      "image": "https://cdn.pixabay.com/photo/2016/06/15/16/34/flower-1458559_1280.jpg",
+      "adventureSlug": "flower-fields"}
+  ],
+  "Urban": [
+    {
+      "id": 1,
+      "title": "City Nightlife",
+      "description": "Explore bright streets and urban culture.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/13/12/barcelona-1836449_1280.jpg",
+      "adventureSlug": "city-nightlife"
+    },
+    {
+      "id": 2,
+      "title": "Street Art Tour",
+      "description": "Discover expressive murals and installations.",
+      "image": "https://cdn.pixabay.com/photo/2017/08/01/00/23/lights-2564015_1280.jpg",
+      "adventureSlug": "street-art-tour"
+    },
+    {
+      "id": 3,
+      "title": "Skyscraper Walk",
+      "description": "Walk the walk between modern towers.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/09/07/city-1835939_1280.jpg",
+      "adventureSlug": "skyscraper-walk"
+    }
+  ],
+  "Cultural": [
+    {
+      "id": 1,
+      "title": "Heritage Sites",
+      "description": "Visit UNESCO cultural landmarks.",
+      "image": "https://cdn.pixabay.com/photo/2017/05/07/08/56/eiffel-tower-2294269_1280.jpg",
+      "adventureSlug": "heritage-sites"
+    },
+    {
+      "id": 2,
+      "title": "Local Festivals",
+      "description": "Experience community traditions and dance.",
+      "image": "https://cdn.pixabay.com/photo/2018/10/16/15/16/festival-3759391_1280.jpg",
+      "adventureSlug": "local-festivals"
+    },
+    {
+      "id": 3,
+      "title": "Cultural Cuisine",
+      "description": "Taste authentic flavors from around world.",
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/28/restaurant-575409_1280.jpg",
+      "adventureSlug": "cultural-cuisine"
+    }
+  ],
+  "Historical": [
+    {
+      "id": 1,
+      "title": "Ancient Ruins",
+      "description": "Walk through temples and ruins of old civilizations.",
+      "image": "https://cdn.pixabay.com/photo/2016/09/29/09/19/taj-mahal-1707107_1280.jpg",
+      "adventureSlug": "ancient-ruins"
+    },
+    {
+      "id": 2,
+      "title": "Castle Visit",
+      "description": "Explore medieval castles and fortresses.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/12/17/castle-1868667_1280.jpg",
+      "adventureSlug": "castle-visit"
+    },
+    {
+      "id": 3,
+      "title": "Historical Towns",
+      "description": "Wander through cobblestone streets of history.",
+      "image": "https://cdn.pixabay.com/photo/2017/08/05/11/52/town-2593231_1280.jpg",
+      "adventureSlug": "historical-towns"
+    }
+  ]
+}

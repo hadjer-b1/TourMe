@@ -1,0 +1,877 @@
+{
+  "Adventure": {
+    "Jungle": [
+      {
+        "id": 1,
+        "title": "Lost on the Jungle Trail",
+        "slug": "lost-jungle-trail",
+        "story": "I thought the trail would be simple — a few hours of hiking, snapping photos of tropical birds, and heading back before sunset. Instead, I found myself wandering deeper into the jungle, the canopy blocking out the sun until everything looked the same. The sound of insects felt louder than my thoughts. I realized the jungle doesn’t care about your plans; it moves at its own pace. By the time I stumbled onto a stream and used it to guide myself back, I understood what real survival felt like: patience, fear, and awe woven into one.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1508780709619-79562169bc64",
+            "caption": "Dense jungle canopy"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+            "caption": "Trail disappearing into greenery"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1508780709619-79562169bc64",
+            "caption": "Tropical river cutting through the forest"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df",
+            "caption": "Sunlight breaking through trees"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
+            "caption": "Wild parrot perched high above"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Close Encounter with Wildlife",
+        "slug": "wildlife-encounter",
+        "story": "It was supposed to be a quiet trek, but silence doesn’t last long in the jungle. I froze when I saw movement in the shadows — a jaguar watching me. For a moment, everything felt still. My heart pounded, but the animal wasn’t hunting; it was simply existing. It turned away slowly, vanishing into the brush like smoke. That encounter left me humbled. In the jungle, we’re not explorers. We’re guests, tolerated only for as long as nature allows.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1753851021630-891b5c9e1a8a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fEphZ3VhciUyMHJlc3RpbmclMjBpbiUyMHRoZSUyMHNoYWRlfGVufDB8fDB8fHww",
+            "caption": "Jaguar resting in the shade"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1727459916583-12ce2e52dde9?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGhpY2slMjBmb3Jlc3QlMjBmb2xpYWdlfGVufDB8fDB8fHww",
+            "caption": "Thick forest foliage"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1699281337802-c220cfa2f0db?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TXlzdGVyaW91cyUyMGp1bmdsZSUyMHBhdGh8ZW58MHx8MHx8fDA%3D",
+            "caption": "Mysterious jungle path"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1737565908397-635ea37a182b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8QnV0dGVyZmxpZXMlMjBjbHVzdGVyaW5nJTIwb24lMjBhJTIwbG9nfGVufDB8fDB8fHww",
+            "caption": "Butterflies clustering on a log"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1536680244750-daad32c13f75?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8U3VubGlnaHQlMjB0b3VjaGluZyUyMGElMjB3aWxkJTIwY2xlYXJpbmd8ZW58MHx8MHx8fDA%3D",
+            "caption": "Sunlight touching a wild clearing"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1698430185297-68c54940dbd3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8SnVuZ2xlJTIwcml2ZXIlMjByZWZsZWN0aW5nJTIwZ3JlZW5lcnklMjJ8ZW58MHx8MHx8fDA%3D",
+            "caption": "Jungle river reflecting greenery"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Rainforest Waterfall Discovery",
+        "slug": "rainforest-waterfall",
+        "story": "The jungle is full of sounds — but nothing compares to the roar of water when you least expect it. Following the echo, I pushed through vines until the trees opened up to a waterfall taller than I’d ever seen. Mist soaked my face, and the sunlight turned it into a rainbow. I dropped my pack and just sat there, letting the hours slip by. That moment reminded me why I travel: to find beauty that doesn’t need an audience to exist.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+            "caption": "Waterfall hidden deep in the jungle"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad1",
+            "caption": "Rainbow forming in mist"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1508780709619-79562169bc64",
+            "caption": "Green mossy rocks near falls"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94",
+            "caption": "Pool of clear jungle water"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1508264165352-258a6c4f0f67",
+            "caption": "Traveler resting near the falls"
+          }
+        ]
+      }
+    ],
+
+    "Sea": [
+      {
+        "id": 1,
+        "title": "Sailing Through Storms",
+        "slug": "sailing-storms",
+        "story": "The sea looked calm when we left the harbor, but within hours the sky turned black. Waves tossed our boat like it was made of paper. I held onto the ropes with every ounce of strength. Strangely, in the middle of chaos, I felt more alive than ever. When the storm finally passed, the sea returned to glassy calm, as if mocking us for believing we had control.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "caption": "Calm sea horizon"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "caption": "Waves crashing during storm"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e",
+            "caption": "Dark clouds gathering over ocean"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+            "caption": "Boat in rough waters"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521208919500-5cb74f1be6fd",
+            "caption": "Sky clearing after storm"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "First Dive Into the Reef",
+        "slug": "tropical-snorkeling",
+        "story": "I’ll never forget the first time I dived under and opened my eyes to a coral reef. It was like falling into another planet — fish darting in neon colors, corals branching like alien cities. Breathing through the tank felt strange at first, but soon it was just me and the quiet heartbeat of the ocean. Coming back up, I realized the surface world will never feel the same again.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "caption": "Coral reef underwater view"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "caption": "Diver exploring reef"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521208919500-5cb74f1be6fd",
+            "caption": "Fish swimming in coral"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e",
+            "caption": "Sunlight piercing water"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+            "caption": "Colorful sea life"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Sunset on the Shore",
+        "slug": "beach-sunset-chill",
+        "story": "After a long day of travel, I walked barefoot on the beach as the sky burned orange. The waves lapped at my feet, warm and gentle, and the horizon swallowed the sun in silence. Sometimes adventures aren’t about adrenaline or danger — they’re about standing still and letting beauty wash over you.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "caption": "Golden sunset over sea"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+            "caption": "Shoreline glowing in orange light"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e",
+            "caption": "Clouds painted by the sun"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521208919500-5cb74f1be6fd",
+            "caption": "Traveler sitting by waves"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "caption": "Reflection of sunset in water"
+          }
+        ]
+      }
+    ],
+    "Desert": [
+      {
+        "id": 1,
+        "title": "Night Under a Million Stars",
+        "slug": "desert-dunes",
+        "story": "We rode until the sun burned out and the dunes cooled under our tires. The camp was a small fire and a circle of strangers turned friends. At midnight I crawled out of the tent and the sky hit me — every star sharp as a pin. No light, no hum of the city, just that infinite ceiling. I felt tiny and strangely safe. The desert stole my breath and gave it back quieter.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Starlit desert sky"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Dune silhouettes at night"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Campfire glow on sand"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Milky way over dunes"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Tent under the stars"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lost Caravan, Found Perspective",
+        "slug": "oasis-campsite",
+        "story": "We took a wrong turn on a salty map and for hours the GPS spun like it was confused. Heat hazed the horizon and the radio offered nothing but static. When our guide finally flagged down a distant caravan, the relief was loud and ridiculous. We shared tea and stories in a makeshift shade — strangers who became a reminder that small kindnesses in empty places matter most.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Camels walking across dunes"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Desert road stretching to horizon"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1455656678491-6d8f8a6c6b13?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Caravan resting in shade"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Sand patterns after wind"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Sharing tea in the desert"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Dawn on the Dunes",
+        "slug": "desert-safari",
+        "story": "We walked before the sun broke because the heat was a certainty later. The dunes changed color with every step — mauve to gold to blinding white. When the first ray hit, the whole world felt curated: every ridge, every shadow. I sat on a crest and watched a caravan of birds cross the sky. That perfect silence — except for the wind — is something I still visit in my head when life gets loud.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "First light on sand dunes"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Golden ridges at dawn"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Soft shadows on dunes"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1435527173128-983b87201f6d?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Traveler watching sunrise"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Wind-sculpted sand patterns"
+          }
+        ]
+      }
+    ],
+
+    "Mountain": [
+      {
+        "id": 1,
+        "title": "Summit That Broke Me (in a good way)",
+        "slug": "alpine-hike",
+        "story": "We left before dawn, boots cold and coffee gone. Halfway up, the path vanished under snow and doubt. A buddy slipped, we laughed to hide the panic, and kept pitching forward. Near the top, the wind cut through layers but the view — holy hell — swallowed every ache. Mountains teach you humility: you pay with breath and effort, you get the world’s best postcard back.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Alpine ridge at sunrise"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Hiker cresting a snowy peak"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1444090542259-0af8fa96557e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Layers of mountain ranges"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Summit panorama"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Boots on the final stretch"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Shelter in a Thunderstorm",
+        "slug": "lake-at-summit",
+        "story": "The climb was routine until the clouds flipped. Thunder rolled like a drumline and rain turned the path into chocolate mud. We found a ledge under a pine and huddled, shivering, sharing stale bread and jokes we’d told a hundred times. The storm passed, leaving everything sharp — colors saturated, the air rinsed. That afternoon we learned how small comforts (a dry jacket, a friend) become epic when the mountain decides to test you.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Clouds rolling over a mountain path"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Hikers sheltering under trees"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1455763916899-e8b50eca9966?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Wet trail after rain"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Mist lifting post-storm"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Mountain ridge washed clean"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Trail That Became Home",
+        "slug": "mountain-sunrise",
+        "story": "A week-long trek stripped my routine and rebuilt a new one: sunrise coffee, map checks, small talk with porters, the repetitive happiness of blisters forming and healing. At the end, I didn’t want to leave the rhythm. Mountains have a way of re-teaching you how to measure days not by clocks but by elevation gain and shared meals.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Long trail through alpine meadows"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1444090542259-0af8fa96557e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Camp setup near a ridgeline"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Sunrise on the trekking route"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1455763916899-e8b50eca9966?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Group of hikers on a narrow path"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Campfire after a long day"
+          }
+        ]
+      }
+    ],
+
+    "Cold": [
+      {
+        "id": 1,
+        "title": "Frozen Silence of a Glacier",
+        "slug": "glacier-trek",
+        "story": "Walking on a glacier felt like stepping into slow time. Each crack echoed and the light was white and holy. We used crampons and laughed at our awkward steps, but the silence — heavy and cold — made every sound meaningful. Later, we sipped hot tea and watched tiny snowflakes land like they had somewhere important to be.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1508264165352-258a6c4f0f67?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Expanse of blue-white glacier"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Crampon-clad boots on ice"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Crevasse glowing in daylight"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Small shelter on ice"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Tea steaming in cold air"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Aurora Night Vigil",
+        "slug": "northern-lights",
+        "story": "We drove through black tundra and parked by a lake. The sky began to come alive with curtains of green and purple. Phones fail to capture that slow, dancing light — you just stare until your cheeks numb. Strangers in the parking lot became companions that night, trading thermoses and theories about the cosmos. The aurora is a reminder that some shows are free and better in person.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Aurora borealis over a frozen lake"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=80",
+            "caption": "People watching northern lights"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Night sky streaked with color"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Lake reflecting aurora"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Bundled viewers sharing hot drinks"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Polar Wildlife Surprise",
+        "slug": "polar-wildlife",
+        "story": "We expected ice and wind. We didn’t expect curiosity from the animals. A seal popped its head near our zodiac like it wanted to see who was gawking. Later, a group of penguins waddled closer than they should have, unbothered by human faces. Those moments — intimate and unscripted — remind you that the cold preserves more than landscapes; it preserves encounters that feel rare and loud in their quietness.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Seal poking head from water"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498579809087-ef1e558fd1da?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Penguins on snowy shore"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Ice floes near the boat"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Close-up of polar wildlife"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1455763916899-e8b50eca9966?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Zodiac approaching ice edge"
+          }
+        ]
+      }
+    ],
+
+    "Modern": [
+      {
+        "id": 1,
+        "title": "Rooftop Sunrise in the Megacity",
+        "slug": "city-skylines",
+        "story": "I snuck up to a rooftop before dawn, coffee in a thermos and a city that hadn’t fully woken. The skyline glowed like a circuit board and the first light painted glass and steel pink. For a second the chaos below felt organized — a grid of tiny stories — and I loved the anonymity. The city taught me how to be small and loud at once.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1600&q=80",
+            "caption": "City skyline at sunrise"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Skyscrapers glowing in morning light"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Rooftop view over downtown"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "City rooftops layered"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Morning commuters from above"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Night Walk Through Neon Markets",
+        "slug": "futuristic-design-tour",
+        "story": "The market alley smelled like spice and fried things; neon signs beeped like a retro future. I tasted street food I can’t pronounce and bartered in broken phrases. People watched me like I was the show, and I loved it. The city at night is a different animal — raw, hungry, and generous if you don’t treat it like a checklist.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Neon signs over a busy market"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Food stalls under colorful lights"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Crowded alley at night"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521208919500-5cb74f1be6fd?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Street vendor preparing food"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Neon reflections on wet pavement"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Underground Art and Quiet Cafés",
+        "slug": "high-tech-district",
+        "story": "I wandered into a side street and found a tiny gallery that smelled like paint and possibility. The owner poured me tea and talked about the local scene like it was a revolt. Later, a café with soft jazz became my office for the afternoon: strangers typing, a barista who knew my order after two visits. Cities hide tenderness in small pockets if you look for them.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Indie art gallery interior"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Cozy café corner"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Street artist painting a mural"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Barista making latte art"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Cafe patrons and laptops"
+          }
+        ]
+      }
+    ],
+
+    "Nature": [
+      {
+        "id": 1,
+        "title": "Lake That Held My Reflection",
+        "slug": "lake-reflections",
+        "story": "I reached a lake after hours on a damp trail. The surface was mirror-flat and the mountains loomed like guardians. I sat for a long time, notebook closed, because sometimes presence is better than words. Ducks paddled by and the occasional ripple stole my reflection, reminding me that everything moves even if it looks still.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Mirror-like alpine lake"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Mountain reflections in water"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Mist over early morning lake"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Traveler sitting on a pier"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Calm water with floating leaves"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Fields of Wildflowers",
+        "slug": "flower-fields",
+        "story": "We stumbled into a valley so packed with flowers the air smelled like honey. Bees hummed in a chorus and the horizon blurred into color. I ran barefoot because it felt like cheating to be that happy while wearing shoes. For an hour we forgot phones and plans and just collected sunlight in our hands.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Expansive wildflower meadow"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Close-up of colorful blooms"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Sunlit field of flowers"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Bees on blossoms"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504788361461-9f3b9a2d9f7f?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Traveler walking through flowers"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Ancient Trees and Quiet Hikes",
+        "slug": "forest-trails",
+        "story": "Some paths lead to old giants — trees with trunks like small houses and rings counting centuries. I leaned my back against one and felt like it knew more patience than any person I’ve met. The hike was slow; every step became a meditation. The forest taught me how to breathe longer and speak softer.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Moss-covered ancient tree"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Sunbeams through tall trees"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Trail lined by old trunks"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Forest floor with roots"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1455763916899-e8b50eca9966?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Traveler resting against a tree"
+          }
+        ]
+      }
+    ],
+
+    "Urban": [
+      {
+        "id": 1,
+        "title": "The Alley That Changed My Appetite",
+        "slug": "city-nightlife",
+        "story": "I turned down a narrow alley on a whim and discovered a family-run restaurant that served the best meal I’d had in months. The owner fed me stories with the food and called me back the next night. Cities hide restaurants like this — small, stubborn pockets of brilliance if you’re willing to stray from the guidebook.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Cozy family-run restaurant"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Alleyway with hanging lights"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Chef preparing traditional dish"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Family sharing a meal"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Street view outside the restaurant"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Midnight Train Conversations",
+        "slug": "street-art-tour",
+        "story": "I missed the last bus and ended up on a near-empty overnight train. The carriage smelled like coffee and old paper. An old woman shared her thermos with me and told stories about the city from fifty years ago. Her memory was sharp, her advice blunt. That ride taught me that travel’s best moments are accidental human connections.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Empty train carriage at night"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Passengers chatting by the window"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Thermos and a shared cup"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "City lights passing by"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Portrait of an elderly traveler"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Festival Night in the Square",
+        "slug": "skyscraper-walk",
+        "story": "The whole city seemed to pour into the square: dancers, food vendors, clapping strangers. I moved with the crowd, borrowed a scarf for warmth, and danced like I’d practiced for a lifetime. The energy was raw and shared, and I left with my cheeks sore from smiling. Cities give you community in unexpected public ways.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Crowds celebrating in a city square"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Street performers and dancers"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Food stalls at a night festival"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Lights and banners overhead"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Crowd dancing together"
+          }
+        ]
+      }
+    ],
+
+    "Cultural": [
+      {
+        "id": 1,
+        "title": "Home-Cooked Dinner With Strangers",
+        "slug": "Heritage Sites",
+
+        "story": "I showed up at a cultural exchange and left with a belly full of food and a family’s worth of stories. They fed me dishes passed down generations and narrated the history behind each spice. Eating together felt like an act of trust. I felt invited into a lineage for one night and it changed how I think about ‘local’ food forever.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Family sharing a traditional meal"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Colorful cultural dishes on a table"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Hands passing plates"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Warm candlelit dining"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Ornamental tablecloths and spices"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Dance That Told a History",
+        "slug": "local-festivals",
+        "story": "I sat in a small theater and watched elders perform a dance that was more like a living history lesson. Each movement was deliberate, each costume a page from the past. I realized that cultural performances aren’t entertainment — they’re guardians of memory. I left with a tighter chest and a longer list of questions.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Traditional dancers mid-performance"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Colorful cultural costumes"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Audience watching a show"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Musicians accompanying dancers"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Close-up of traditional instrument"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Market of Stories",
+        "slug": "cultural-cuisine",
+        "story": "The cultural market sold more than handicrafts — it sold backstories. Each stallowner had a reason for their pattern, a family technique, a migration tale. I bought a small clay bowl and got a ten-minute oral history lesson as a bonus. Objects become anchors when you know where they came from.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Stalls at a cultural market"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Handicrafts on display"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Vendor explaining an artifact"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Crowded market lanes"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Close-up of artisan hands"
+          }
+        ]
+      }
+    ],
+
+    "Historical": [
+      {
+        "id": 1,
+        "title": "Walking Through Ruins at Dawn",
+        "slug": "ancient-ruins",
+        "story": "I slipped into the ruins before opening hours, the stones still cool and the pigeons not yet loud. Each column had moss like a crown and every step felt like walking through someone else’s diary. The place smelled of dust and history. Being there early felt like stealing a quiet conversation with the past.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Ancient ruins at sunrise"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Crumbled stone walls covered in moss"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Arches and long shadows"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Close-up of carved reliefs"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Pathways through old temples"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Castle That Kept Its Secrets",
+        "slug": "castle-visit",
+        "story": "We toured a castle with creaky floors and narrators who loved telling gossip as much as dates. In a hidden chamber, I found scrawled notes from visitors decades ago — names and short confessions left like time capsules. That small, messy human residue made stone history feel less like a textbook and more like a messy, ongoing story.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Towering castle walls"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Castle interior corridor"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Hidden chamber with notes"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Battlements overlooking countryside"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Staircase spiraling up a tower"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Town Where Time Paused",
+        "slug": "historical-towns",
+        "story": "The town had cobblestone streets and shutters that still closed at siesta. People knew names and recipes and secrets. I spent an afternoon in a bakery whose recipe hadn’t changed since 1820 and watched old men argue about weather like it was news. It’s a comfort to see places that keep their rhythm — they teach patience.",
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Cobblestone street in a historic town"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Old bakery window with pastries"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Shutters and balconies with plants"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Town square with locals"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+            "caption": "Narrow alley with historic charm"
+          }
+        ]
+      }
+    ]
+  }
+}

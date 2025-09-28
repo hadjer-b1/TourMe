@@ -1,0 +1,178 @@
+/* Global theme variables - automatically updated by ThemeContext */
+:root {
+  /* Theme colors - set dynamically by JavaScript */
+  --theme-primary: #ff8c42;
+  --theme-secondary: #34dba3;
+  --theme-background: #ffffff;
+  --theme-backgroundSecondary: #f8f9fa;
+  --theme-text: #333333;
+  --theme-textSecondary: #666666;
+  --theme-border: #e9ecef;
+  --theme-shadow: rgba(0, 0, 0, 0.1);
+
+  /* Static colors for consistency */
+  --orange-primary: #ff8c42;
+  --orange-light: #ffb366;
+  --orange-dark: #e6772a;
+  --blue-primary: #34dbae;
+  --blue-dark: #06372a;
+  --blue-light: #8becd2;
+
+  /* Status colors */
+  --success: #28a745;
+  --error: #dc3545;
+  --warning: #ffc107;
+  --info: #17a2b8;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-xxl: 3rem;
+
+  /* Border radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-round: 50%;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Theme-specific body classes */
+.light-theme {
+  color-scheme: light;
+}
+
+.dark-theme {
+  color-scheme: dark;
+}
+
+.dim-theme {
+  color-scheme: dark;
+}
+
+/* Base component styles using theme variables */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--theme-background);
+  color: var(--theme-text);
+  transition: background-color var(--transition-normal),
+    color var(--transition-normal);
+}
+
+/* Button base styles */
+.btn {
+  background-color: var(--theme-primary);
+  color: var(--theme-background);
+  border: none;
+  border-radius: var(--radius-md);
+  padding: var(--spacing-sm) var(--spacing-lg);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: var(--orange-dark);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+  background-color: var(--theme-secondary);
+}
+
+.btn-secondary:hover {
+  background-color: var(--blue-dark);
+}
+
+/* Card base styles */
+.card {
+  background-color: var(--theme-backgroundSecondary);
+  border: 1px solid var(--theme-border);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-normal);
+}
+
+.card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+/* Input base styles */
+.input {
+  background-color: var(--theme-background);
+  border: 2px solid var(--theme-border);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-sm) var(--spacing-md);
+  color: var(--theme-text);
+  font-size: 1rem;
+  transition: border-color var(--transition-fast);
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--theme-primary);
+}
+
+/* Text styles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--theme-text);
+  margin: 0 0 var(--spacing-md) 0;
+}
+
+p {
+  color: var(--theme-textSecondary);
+  line-height: 1.6;
+  margin: 0 0 var(--spacing-md) 0;
+}
+
+/* Link styles */
+a {
+  color: var(--theme-primary);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--orange-dark);
+}
+
+/* Responsive utilities */
+@media (max-width: 768px) {
+  .btn {
+    padding: var(--spacing-xs) var(--spacing-md);
+    font-size: 0.85rem;
+  }
+
+  .card {
+    padding: var(--spacing-md);
+  }
+}

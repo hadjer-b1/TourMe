@@ -1,0 +1,299 @@
+/*------------------------ Base Styles ------------------------*/
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: var(--theme-text);
+  text-decoration: none;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+
+/*------------------------ Buttons - Use global btn class from theme-variables.css ------------------------*/
+.home-btn {
+  display: inline-block;
+  background-color: var(--theme-primary);
+  color: white;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  padding: 0.6rem 1.2rem;
+  margin-top: 0.8rem;
+  border-radius: var(--radius-md);
+  border: none;
+  transition: all var(--transition-fast);
+  cursor: pointer;
+}
+
+.home-btn:hover,
+.home-btn:focus {
+  background-color: var(--orange-dark);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(255, 140, 66, 0.4);
+  transform: translateY(-2px);
+}
+
+.hero-bg {
+  padding: 8rem 2rem;
+  background-image: url("../assets/background-body.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/*------------------------ Hero Section ------------------------*/
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin: 1.2rem auto;
+  background: linear-gradient(to right, #e3f2fd, #fff8e1);
+  border-radius: 8px;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 0.8rem;
+  font-family: "Playfair Display", serif;
+  line-height: 1.2;
+  color: #004d40;
+}
+
+.hero p {
+  font-size: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+  color: #333;
+}
+
+/*------------------------ Highlights Section ------------------------*/
+.highlights {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.highlights h2 {
+  font-size: 2.4rem;
+  margin-bottom: 1.5rem;
+  color: #f57c00;
+  font-family: "Playfair Display", serif;
+}
+
+/*------------------------ Destination Cards ------------------------*/
+.destination-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1.5rem 2rem;
+  padding: 0 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 1 300px;
+  background: #ffffff;
+  padding: 0rem;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  flex: 1 1 300px;
+}
+
+.card-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 10px 22px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+.card p,
+.card h3 {
+  padding: 1rem;
+}
+.card h3 {
+  color: #f57c00;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0;
+  font-family: "Playfair Display", serif;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px 8px 0 0;
+  object-fit: cover;
+  max-height: 200px;
+  object-position: center;
+  padding: 0;
+}
+
+/*------------------------ CTA Section ------------------------*/
+.cta {
+  background: #ffe0b2;
+  color: #3e2723;
+  padding: 3rem 1rem;
+  text-align: center;
+  border-radius: 10px;
+  margin: 2rem 10rem;
+}
+
+.cta h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-family: "Playfair Display", serif;
+}
+
+/*------------------------ Testimonials ------------------------*/
+.feedback-blog {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.testimonials {
+  background: #f1f8e9;
+  padding: 3rem 1rem;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.testimonials h2 {
+  margin-bottom: 2rem;
+  font-family: "Playfair Display", serif;
+  color: #33691e;
+}
+
+.testimonials blockquote {
+  font-style: italic;
+  margin: 1rem auto;
+  max-width: 600px;
+  position: relative;
+  padding: 1rem;
+  color: #4e342e;
+}
+
+.testimonials blockquote::before {
+  content: "“";
+  font-size: 2rem;
+  color: #ffa726;
+  margin-right: 5px;
+}
+
+.testimonials blockquote::after {
+  content: "”";
+  font-size: 2rem;
+  color: #ffa726;
+  margin-left: 5px;
+}
+
+/*------------------------ Blog Preview ------------------------*/
+.blog-preview {
+  background: #fffde7;
+  border-radius: 8px;
+  padding: 2rem 1rem;
+}
+
+.blog-preview h2 {
+  margin-bottom: 1rem;
+  font-family: "Playfair Display", serif;
+  color: #ef6c00;
+}
+
+.blog-preview ul {
+  list-style: none;
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
+
+.blog-preview li {
+  margin-bottom: 0.5rem;
+  font-family: "Poppins", sans-serif;
+}
+
+/*------------------------------------Experiences Page------------------------------------------*/
+.experiences {
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.experiences h2 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  color: #ef6c00;
+  font-family: "Playfair Display", serif;
+}
+
+.experiences .experience-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.experiences .experience-card {
+  flex: 1 1 300px;
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.experiences .experience-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 10px 22px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.experiences .experience-card h3 {
+  color: #ef6c00;
+  margin-bottom: 0.5rem;
+  font-family: "Playfair Display", serif;
+}
+
+.experiences .experience-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.experiences .experience-card p {
+  color: #424242;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  font-family: "Poppins", sans-serif;
+}
+
+/*------------------------ Responsive ------------------------*/
+@media (max-width: 768px) {
+  .hero {
+    margin: 1rem;
+    padding: 3rem 1rem;
+  }
+
+  .cta {
+    margin: 1rem;
+  }
+
+  .destination-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .feedback-blog {
+    flex-direction: column;
+    align-items: center;
+  }
+}
